@@ -2,7 +2,7 @@ Application setup:
 
 1) install node<br>
 2) open Terminal<br>
-3 Install node Module using npm command on specific folder "weatherforecasting".<br>
+3) Install node Module using npm command on specific folder "weatherforecasting".<br>
     Execute to install npm express framework, ejs framework,request module and body-parser module<br>
     3.1) npm install express<br>
     3.2) npm install request<br>
