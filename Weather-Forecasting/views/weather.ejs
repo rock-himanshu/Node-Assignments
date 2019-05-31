@@ -1,0 +1,44 @@
+<html>
+<head>
+    <title>Weather Forcasting</title>
+<style>
+.box2{
+  margin-left: 30px;
+  margin-top: 10px;
+  border:1px solid black;
+  width:200px;
+  padding: 5px;
+
+}
+body{
+  background-color: #f0f0f0;
+}
+</style>
+</head>
+<body>
+  <center>
+  <h1>Weather Forcasting</h1>
+  <hr>
+</center>
+
+  <div class="box">
+ <form method="POST">
+     <input type="text" name="city_name" placeholder="City,Country">
+     <input type="submit"><br>
+     <span>Example:New Delhi,IN or London,UK </span>
+</form>
+<span>weather Status: </span>
+<br>
+<div class="box2">
+
+<img src="http://openweathermap.org/img/w/<%= weather.icon %>.png" alt="Image"><br>
+<span>Country: <%=weather.country %></span>
+<br>
+<span>City: <%=weather.city %></span>
+<br>
+<span>Temperature: <%=weather.temperature%><sup>o</sup>C</span>
+<br>
+</div>
+</div>
+</body>
+</html>
