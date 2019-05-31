@@ -12,4 +12,4 @@ Application setup:
 4) Run node server.js on folder weatherforecasting
 5) open Link http://localhost:3000/
 6) Test Application.
-<img src="output.jpeg" alt="working image">
+<img src="output.png" alt="working image">
