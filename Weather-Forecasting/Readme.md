@@ -1,4 +1,4 @@
-This project is being inspired by Indian Farmer hardwork. This project can be used for creating smart Green-house for temperature and vegition contol.
+This project is being inspired by Indian Farmer hardwork. This project can be used for developing smart-Green-house for temperature and vegition contol with alert system.
 -------------------------- 
  project Part 1:(IOT Based)
 --------------------------
