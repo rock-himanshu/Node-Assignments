@@ -16,11 +16,13 @@ step 3) install plotly with "node install plotly" and run index.js and reading u
 step 4) setup reading update.js with plotly account.
 
 ---------------------
-Application setup:
+Part 2: Using Openweather api
 --------------------
-1) install node<br>
-2) open Terminal<br>
-3) Install node Module using npm command on specific folder "weatherforecasting".<br>
+Application setup:
+
+step 1) install node<br>
+step 2) open Terminal<br>
+step 3) Install node Module using npm command on specific folder "weatherforecasting".<br>
     Execute to install npm express framework, ejs framework,request module and body-parser module<br>
     3.1) npm install express<br>
     3.2) npm install request<br>
@@ -28,9 +30,9 @@ Application setup:
     3.4) npm install ejs<br>
     or unzip node_module.zip file in root folder of project.
     
-4) Run node server.js on folder weatherforecasting<br>
-5) open Link http://localhost:3000/<br>
-6) Test Application.<br>
+step 4) Run node server.js on folder weatherforecasting<br>
+step 5) open Link http://localhost:3000/<br>
+step 6) Test Application.<br>
 
 <b>Application preview :</b><br>
 Demo hosting Link: <a hreaf="https://weather-forcast123.herokuapp.com">https://weather-forcast123.herokuapp.com</a>
