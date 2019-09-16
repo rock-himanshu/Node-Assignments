@@ -16,7 +16,7 @@ step 3) install plotly with "node install plotly" and run index.js and reading u
 step 4) setup reading update.js with plotly account.
 
 ---------------------
-Part 2: Using Openweather api
+project Part 2: (Using Openweather api)
 --------------------
 Application setup:
 
